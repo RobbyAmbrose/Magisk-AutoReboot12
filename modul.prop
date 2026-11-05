@@ -4,3 +4,4 @@ version=v1.0.0
 versionCode=1
 author=Robbyambrosee
 description=Modul Magisk untuk otomatis reboot perangkat setiap pukul 12 malam.
+updateJson=https://github.com/RobbyAmbrose/Magisk-AutoReboot12/releases/download/1.0.0/update.json
