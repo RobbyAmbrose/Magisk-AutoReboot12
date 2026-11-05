@@ -1,6 +1,6 @@
 id=autoreboot12
 name=Auto Reboot Jam 12 Malam
-version=v1.0
+version=v1.0.0
 versionCode=1
-author=NamaAnda
+author=Robbyambrosee
 description=Modul Magisk untuk otomatis reboot perangkat setiap pukul 12 malam.
