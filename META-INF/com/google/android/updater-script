@@ -1,0 +1,7 @@
+#MAGISK
+#
+ui_print "*********************************"
+ui_print "   Installing Auto Reboot Mod    "
+ui_print "*********************************"
+set_perm_recursive 0 0 0755 0755 $MODPATH
+ui_print "- Selesai! Perangkat akan reboot otomatis jam 12 malam."
